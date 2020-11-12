@@ -1,6 +1,7 @@
 <template>
-  <nav class="">
-    <ul class="flex fixed top-0 inset-x-0 p-3">
+  <nav class="mx-auto">
+    <img src="../../assets/img/asociacion-monte-galego.jpg" alt="Asociación do monte galego" />
+    <ul class="flex 0 p-3">
       <li class="flex-1 mr-2">
         <nuxt-link class="btn block" to="/">Home</nuxt-link>
       </li>
