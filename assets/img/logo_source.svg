@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 145.74335 145.74335"
+   height="145.74335mm"
+   width="145.74335mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-20.404139,-25.822451)"
+     id="layer1">
+    <rect
+       style="fill:#74d14c;fill-opacity:1;stroke-width:1.95943427;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use4608"
+       width="145.74335"
+       height="145.74335"
+       x="20.404139"
+       y="25.822451" />
+    <g
+       style="fill:#2f7a45;fill-opacity:1;stroke:none"
+       transform="matrix(0.34804321,0,0,0.34804321,59.761003,20.808076)"
+       id="g4606-3">
+      <path
+         id="path4555-6"
+         d="m 55.565334,127.87184 -38.812143,58.43688 h -2.49713 l 38.315853,-67.79132 28.998744,17.77343 14.03165,14.96709 -2.432153,20.01849 18.207505,15.03231 H 67.309525 L 63.04888,171.83767 72.77749,153.3159 Z"
+         style="fill:#2f7a45;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path4557-7"
+         d="m 75.080987,132.10711 -2.619243,-1.30962 22.263551,-56.874958 46.210895,55.752418 14.40583,-8.2319 27.61677,65.05734 h -6.84993 l -26.19241,-31.75555 3.74177,-26.75368 -31.99216,22.63773 0.56127,-17.02507 -25.256975,-45.64964 z"
+         style="fill:#2f7a45;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path4559-5"
+         d="m 111.37766,186.30872 1.82848,-5.18896 19.08305,-5.23849 4.30304,-13.47038 12.23311,23.89783 z"
+         style="fill:#2f7a45;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       id="text4578-3"
+       y="130.62933"
+       x="51.801876"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.83681488px;line-height:1.25;font-family:Keraleeyam;-inkscape-font-specification:Keraleeyam;letter-spacing:0px;word-spacing:0px;fill:#2f7a45;fill-opacity:1;stroke:none;stroke-width:0.87092036"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Keraleeyam;-inkscape-font-specification:Keraleeyam;fill:#2f7a45;fill-opacity:1;stroke-width:0.87092036"
+         y="130.62933"
+         x="51.801876"
+         id="tspan4576-5">MONTE</tspan></text>
+    <text
+       id="text4570-6"
+       y="103.35438"
+       x="52.717495"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86207771px;line-height:1.25;font-family:Keraleeyam;-inkscape-font-specification:Keraleeyam;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4965519"
+       xml:space="preserve"><tspan
+         id="tspan4572-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Keraleeyam;-inkscape-font-specification:Keraleeyam;fill:#ffffff;fill-opacity:1;stroke-width:0.4965519"
+         y="103.35438"
+         x="52.717495">ASOCIACION</tspan></text>
+    <text
+       id="text4582-9"
+       y="155.76332"
+       x="51.237057"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.32583809px;line-height:1.25;font-family:Keraleeyam;-inkscape-font-specification:Keraleeyam;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.78314584"
+       xml:space="preserve"><tspan
+         id="tspan4584-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Keraleeyam;-inkscape-font-specification:Keraleeyam;fill:#ffffff;fill-opacity:1;stroke-width:0.78314584"
+         y="155.76332"
+         x="51.237057">GALEGO</tspan></text>
+  </g>
+</svg>
