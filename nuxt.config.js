@@ -70,7 +70,20 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: ['@nuxtjs/markdownit', 'nuxt-purgecss'],
+  modules: ['@nuxtjs/markdownit', 'nuxt-fontawesome', 'nuxt-purgecss'],
+  fontawesome: {
+    imports: [
+        {
+          set: '@fortawesome/free-solid-svg-icons',
+          icons: ['faBars', 'faHashtag', 'faAt']
+        },
+         {
+          set: '@fortawesome/free-brands-svg-icons',
+          icons: ['faTwitter', 'faFacebook']
+        }
+    ],
+  },
+
   markdownit: {
     injected: true
   },
