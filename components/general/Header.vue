@@ -15,15 +15,15 @@
       <div class="flex flex-wrap">
         <!-- Desktop nav list -->
         <nav>
-          <ul id="mobileMenu" class="text-md sm:text-xl flex uppercase">
+          <ul id="mobileMenu" class="text-base sm:text-lg flex uppercase">
             <li>
               <nuxt-link to="/" class="mr-4"> Inicio </nuxt-link>
             </li>
             <li>
-              <nuxt-link to="/blog" class="mr-4"> Blog </nuxt-link>
+              <nuxt-link to="/blog" class="mr-4"> Noticias </nuxt-link>
             </li>
             <li>
-              <nuxt-link to="/projects" class=""> Projects </nuxt-link>
+              <nuxt-link to="/projects" class=""> Proyectos </nuxt-link>
             </li>
           </ul>
         </nav>

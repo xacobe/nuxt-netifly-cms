@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="wrapper bg-primary-100 shadow-2xl w-full mt-12">
+    <div class="wrapper bg-primary-100 shadow-2xl w-full sm:mt-6">
       <Header />
       <ColorModePicker />
       <nuxt />

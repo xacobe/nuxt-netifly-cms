@@ -1,11 +1,19 @@
 .container {
+  @apply my-0 mx-auto;
+  
+}
+
+.wrapper {
   min-height: 100vh;
-  @apply my-0 mx-auto flex justify-start items-start text-center flex-col;
+  
+  @media (min-width: 640px) {
+    min-height: calc(100vh - 3rem);
+  }
+  @apply flex justify-between items-start  flex-col;
 }
 
 .main {
-  min-height: 50vh;
-  @apply bg-primary-100 w-full max-w-5xl mx-auto px-8 py-2;
+  @apply bg-primary-100 w-full max-w-5xl mx-auto mb-auto p-8;
 }
 
 .articles {

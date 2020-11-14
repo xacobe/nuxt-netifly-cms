@@ -1,6 +1,6 @@
 <template>
   <main v-if="blogPosts" class="main">
-    <h1 class="title text-left">Blog</h1>
+    <h2 class="title text-left pt-5">Blog</h2>
     <ul v-for="(blogPost, index) in blogPosts" :key="index" class="articles">
       <nuxt-link :to="`blog/${blogPost.slug}`" class="article article--clickable">
         <div class="flex justify-between align-baseline">
@@ -24,13 +24,13 @@ export default {
   computed: {
     blogPosts() {
       return this.$store.state.blogPosts
-    }
+    },
   },
   methods: {
     formatDate(dateString) {
       const date = new Date(dateString)
       return date.toLocaleDateString(process.env.lang) || ''
-    }
-  }
+    },
+  },
 }
 </script>

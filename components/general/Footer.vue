@@ -1,7 +1,11 @@
 <template>
   <footer class="footer flex justify-center w-full p-4 bg-gray-900">
     <div class="footer-content flex">
-      <a href="/" class="icon-link flex flex-col px-5" title=""
+      <a
+        href="https://twitter.com/montegalego?lang=gl"
+        target="_blank"
+        class="icon-link flex flex-col px-5"
+        title="Twitter"
         ><font-awesome-icon
           :icon="['fab', 'twitter']"
           class="icon-twitter p-3 bg-gray-600 rounded-full"

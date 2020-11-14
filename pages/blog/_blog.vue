@@ -1,5 +1,5 @@
 <template>
-  <article v-if="blogPost" class="main article">
+  <article v-if="blogPost" class="main article pt-5">
     <h1 class="article-title">{{ blogPost.title }}</h1>
     <h6
       v-if="blogPost.date"
