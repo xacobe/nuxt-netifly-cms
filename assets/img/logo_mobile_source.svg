@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 279.91252 69.894001"
+   height="264.17874"
+   width="1057.9283"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="logo_mobile_source.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2590"
+     inkscape:window-height="1541"
+     id="namedview24"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1"
+     inkscape:cx="71.962128"
+     inkscape:cy="246.20722"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg22" />
+  <g
+     id="g8"
+     transform="matrix(7.3503828,0,0,7.3503828,-0.00266988,-2.6313618e-4)"
+     style="fill:#2f7a45">
+    <path
+       d="M 19.844,2.773 17.849,5.778 H 17.72 l 1.97,-3.485 1.49,0.913 0.722,0.77 -0.125,1.029 0.936,0.773 h -2.265 l -0.22,-0.744 0.5,-0.953 z"
+       id="path2"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 20.847,2.991 20.713,2.924 21.857,0 l 2.376,2.866 0.74,-0.423 1.42,3.344 H 26.041 L 24.694,4.155 24.887,2.78 23.242,3.943 23.271,3.068 21.972,0.721 Z"
+       id="path4"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 22.713,5.778 0.094,-0.267 0.981,-0.27 0.221,-0.692 0.63,1.229 z"
+       id="path6"
+       inkscape:connector-curvature="0" />
+  </g>
+  <text
+     y="69.556412"
+     x="124.84357"
+     style="font-weight:400;font-size:29.71024513px;line-height:1.25;font-family:Keraleeyam;-inkscape-font-specification:Keraleeyam;letter-spacing:0;word-spacing:0;fill:#2f7a45;stroke-width:0.66153449"
+     font-weight="400"
+     font-size="4.042"
+     letter-spacing="0"
+     word-spacing="0"
+     id="text12">
+    <tspan
+       style="-inkscape-font-specification:Keraleeyam;stroke-width:0.66153449"
+       y="69.556412"
+       x="124.84357"
+       id="tspan10">MONTE</tspan>
+  </text>
+  <text
+     y="69.578453"
+     x="-1.4506955"
+     style="font-weight:400;font-size:29.71024513px;line-height:1.25;font-family:Keraleeyam;-inkscape-font-specification:Keraleeyam;letter-spacing:0;word-spacing:0;fill:#ffffff;stroke-width:0.37486953"
+     font-weight="400"
+     font-size="4.042"
+     letter-spacing="0"
+     word-spacing="0"
+     id="text16">
+    <tspan
+       style="-inkscape-font-specification:Keraleeyam;stroke-width:0.37486953"
+       y="69.578453"
+       x="-1.4506955"
+       id="tspan14">ASOCIACION</tspan>
+  </text>
+  <text
+     y="69.549072"
+     x="199.97919"
+     style="font-weight:400;font-size:29.71024513px;line-height:1.25;font-family:Keraleeyam;-inkscape-font-specification:Keraleeyam;letter-spacing:0;word-spacing:0;fill:#ffffff;stroke-width:0.59538102"
+     font-weight="400"
+     font-size="4.042"
+     letter-spacing="0"
+     word-spacing="0"
+     id="text20">
+    <tspan
+       style="-inkscape-font-specification:Keraleeyam;stroke-width:0.59538102"
+       y="69.549072"
+       x="199.97919"
+       id="tspan18">GALEGO</tspan>
+  </text>
+</svg>

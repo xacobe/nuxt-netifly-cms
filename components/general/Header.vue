@@ -15,30 +15,31 @@
     </nav>
 
     <!-- Toggle menu mobile icon -->
-    <div class="sm:hidden absolute px-8 py-4 right-0" @click="menu = !menu">
+    <div class="sm:hidden absolute px-8 py-4 right-0 cursor-pointer" @click="menu = !menu">
       <font-awesome-icon icon="bars" style="font-size: 2rem" />
     </div>
 
-    <!-- Logo -->
-    <div class="logo w-16 sm:w-24 mx-8 my-4">
-      <a href="/">
-        <img
-          class="w-full"
-          src="../../assets/img/logo.svg"
-          alt="Asociación do monte galego"
-          width="100px"
-          height="132.15"
-        />
-      </a>
-    </div>
+    <!-- Branding -->
+    <section>
+      <div class="logo sm:w-64 mx-8 my-4">
+        <a href="/">
+          <img
+            title="Asocicación do monte galego"
+            src="../../assets/img/logo_mobile.svg"
+            alt="Asociacion do monte
+        galego"
+          />
+        </a>
+      </div>
+    </section>
 
     <!-- Mobile nav list -->
-    <nav v-show="menu" class="mobile-menu w-full bg-white text-center text-lg uppercase">
+    <nav v-show="menu" class="mobile-menu w-full bg-white transition-all text-center text-lg uppercase">
       <ul class="flex flex-col">
-        <li v-for="(item, index) in items" :key="index">
-          <a :href="item.href" class="p-6 block">
+        <li v-for="(item, index) in items" :key="index" :value="item.href">
+          <nuxt-link :to="item.href" class="p-6 block">
             {{ item.title }}
-          </a>
+          </nuxt-link>
         </li>
       </ul>
     </nav>

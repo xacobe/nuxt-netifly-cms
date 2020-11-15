@@ -1,22 +1,23 @@
 <template>
-  <div class="container">
-    <div class="wrapper bg-primary-100 shadow-2xl w-full sm:mt-6">
-      <Header />
-      <ColorModePicker />
-      <nuxt />
-      <Footer />
-    </div>
+  <div class="wrapper bg-primary-100 w-full">
+    <Header />
+    <Breadcrumb />
+    <ColorModePicker />
+    <nuxt />
+    <Footer />
   </div>
 </template>
 
 <script>
 import Header from '~/components/general/Header.vue'
+import Breadcrumb from '~/components/general/Breadcrumb.vue'
 import ColorModePicker from '~/components/general/ColorModePicker.vue'
 import Footer from '~/components/general/Footer.vue'
 
 export default {
   components: {
     Header,
+    Breadcrumb,
     ColorModePicker,
     Footer,
   },
