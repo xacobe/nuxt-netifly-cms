@@ -6,23 +6,18 @@
         target="_blank"
         class="icon-link flex flex-col px-5"
         title="Twitter"
-        ><font-awesome-icon
-          :icon="['fab', 'twitter']"
-          class="icon-twitter p-3 bg-gray-600 rounded-full"
-          style="font-size: 60px"
-        />
+        ><font-awesome-icon :icon="['fab', 'twitter']" class="icon-twitter p-3 w-6 bg-gray-600 rounded-full" />
         <p class="text-primary-400 pt-2">Email</p></a
       >
       <a href="/" class="icon-link flex flex-col px-5" title=""
         ><font-awesome-icon
           :icon="['fab', 'facebook']"
-          class="icon-facebook fill-current text-gray-600 rounded-full"
-          style="font-size: 60px"
+          class="icon-facebook w-6 fill-current text-gray-600 rounded-full"
         />
         <p class="text-primary-400 pt-2">Email</p></a
       >
       <a href="/" class="icon-link flex flex-col px-5" title=""
-        ><font-awesome-icon icon="at" class="icon-at p-2 bg-gray-600 rounded-full" style="font-size: 60px" />
+        ><font-awesome-icon icon="at" class="icon-at p-2 w-6 bg-gray-600 rounded-full" />
         <p class="text-primary-400 pt-2">Email</p></a
       >
     </div>

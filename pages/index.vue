@@ -14,7 +14,7 @@
       <div class="p-2 text-center">
         <div class="py-16 rounded overflow-hidden shadow-lg hover:bg-white transition duration-500 bg-white">
           <div class="space-y-10">
-            <font-awesome-icon icon="bacterium" class="text-6xl text-purple-800" />
+            <font-awesome-icon icon="bacterium" class="w-6 mx-auto text-purple-800" />
 
             <div class="px-6 py-4">
               <div class="space-y-5">
@@ -34,7 +34,7 @@
           class="py-16 h-full rounded overflow-hidden shadow-lg bg-orange-500 hover:bg-orange-600 transition duration-500"
         >
           <div class="space-y-10">
-            <font-awesome-icon icon="balance-scale-left" class="text-6xl" />
+            <font-awesome-icon icon="balance-scale-left" class="w-6 mx-auto" />
             <div class="px-6 py-4">
               <div class="space-y-5">
                 <div class="font-bold text-xl mb-2">Magna incididunt.</div>
@@ -50,7 +50,7 @@
       <div class="sm:col-span-2 p-2 text-center translate-x-2">
         <div class="py-16 h-full rounded overflow-hidden shadow-lg hover:bg-white transition duration-500 bg-white">
           <div class="space-y-10">
-            <font-awesome-icon icon="ban" class="text-6xl text-red-700" />
+            <font-awesome-icon icon="ban" class="w-6 mx-auto text-red-700" />
             <div class="px-6 py-4">
               <div class="space-y-5">
                 <div class="font-bold text-xl mb-2">Duis officia sint.</div>
