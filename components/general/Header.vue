@@ -34,10 +34,10 @@
     </section>
 
     <!-- Mobile nav list -->
-    <nav v-show="menu" class="mobile-menu w-full bg-white transition-all text-center text-lg uppercase">
+    <nav v-show="menu" class="mobile-menu w-full bg-white transition-all text-base text-center uppercase">
       <ul class="flex flex-col">
         <li v-for="(item, index) in items" :key="index" :value="item.href">
-          <nuxt-link :to="item.href" class="p-6 block">
+          <nuxt-link :to="item.href" class="p-3 block">
             {{ item.title }}
           </nuxt-link>
         </li>
