@@ -18,5 +18,6 @@ export default {
         projectPost: await require(`~/assets/content/projects/${params.project}.json`),
       }
   },
+  f,
 }
 </script>
