@@ -1,6 +1,6 @@
 <template>
   <div class="main text-center flex flex-col items-center justify-center">
-    <div class="grid grid-cols-1 gap-3 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 sm:px-8">
+    <div class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3 sm:px-8">
       <div class="w-full text-center sm:col-span-2 inset-x-0">
         <h1 class="title">Asociación do monte galego</h1>
         <h2 class="subtitle">Defendamos o bosque</h2>

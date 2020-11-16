@@ -2,7 +2,7 @@
   <header class="bg-green text-white w-full top-0 left-0">
     <nav class="main-menu bg-gray-100 hidden sm:block">
       <ul class="flex text-base sm:text-lg px-8 py-4 justify-end uppercase">
-        <li>
+        <li class="hover:text-red-600">
           <nuxt-link to="/" class="mr-4"> Inicio </nuxt-link>
         </li>
         <li>
@@ -20,8 +20,8 @@
     </div>
 
     <!-- Branding -->
-    <section>
-      <div class="logo sm:w-64 mx-8 my-4">
+    <section class="container">
+      <div class="logo w-64 mx-8 my-4">
         <a href="/">
           <img
             title="Asocicación do monte galego"
@@ -72,9 +72,21 @@ export default {
 </script>
 
 <style lang="postcss" scoped>
-.nuxt-link-exact-active {
-  @apply text-green-100 border-b-8 border-primary-900;
+/* Main menu. */
+.main-menu li a {
+  &:hover,
+  &:focus {
+    border-bottom: solid 0.2em #74d14d;
+    padding-bottom: 0.35rem;
+    transition: none;
+  }
+  &.nuxt-link-exact-active {
+    border-bottom: solid 0.2em #74d14d;
+    padding-bottom: 0.35rem;
+  }
 }
+
+/* Mobile men. */
 .mobile-menu li a {
   position: relative;
   border-bottom: solid 1px darkgrey;
@@ -113,6 +125,7 @@ export default {
     transform-origin: center;
   }
 }
+/* Light mode. */
 .light-mode {
   & .nuxt-link-exact-active {
     @apply text-primary-900;
