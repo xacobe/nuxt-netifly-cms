@@ -16,7 +16,7 @@
 
     <!-- Toggle menu mobile icon -->
     <div class="sm:hidden absolute px-8 py-4 right-0 cursor-pointer" @click="menu = !menu">
-      <font-awesome-icon icon="bars" style="font-size: 2rem" />
+      <font-awesome-icon icon="bars" style="font-size: 2rem" class="w-8" />
     </div>
 
     <!-- Branding -->
